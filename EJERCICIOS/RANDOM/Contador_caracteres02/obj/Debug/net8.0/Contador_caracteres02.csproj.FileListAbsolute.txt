@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\Contador_caracteres02\obj\Debug\net8.0\Contador_caracteres02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\Contador_caracteres02\obj\Debug\net8.0\Contador_caracteres02.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\Contador_caracteres02\obj\Debug\net8.0\Contador_caracteres02.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\Contador_caracteres02\obj\Debug\net8.0\Contador_caracteres02.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\Contador_caracteres02\bin\Debug\net8.0\Contador_caracteres02.exe
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\Contador_caracteres02\bin\Debug\net8.0\Contador_caracteres02.deps.json
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\Contador_caracteres02\bin\Debug\net8.0\Contador_caracteres02.runtimeconfig.json
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\Contador_caracteres02\bin\Debug\net8.0\Contador_caracteres02.dll
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\Contador_caracteres02\bin\Debug\net8.0\Contador_caracteres02.pdb
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\Contador_caracteres02\obj\Debug\net8.0\Contador_caracteres02.dll
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\Contador_caracteres02\obj\Debug\net8.0\refint\Contador_caracteres02.dll
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\Contador_caracteres02\obj\Debug\net8.0\Contador_caracteres02.pdb
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\Contador_caracteres02\obj\Debug\net8.0\Contador_caracteres02.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\Contador_caracteres02\obj\Debug\net8.0\ref\Contador_caracteres02.dll

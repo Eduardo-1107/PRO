@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\STRINGS\Ejercicio5bis\bin\Debug\net8.0\Ejercicio5bis.exe
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\STRINGS\Ejercicio5bis\bin\Debug\net8.0\Ejercicio5bis.deps.json
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\STRINGS\Ejercicio5bis\bin\Debug\net8.0\Ejercicio5bis.runtimeconfig.json
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\STRINGS\Ejercicio5bis\bin\Debug\net8.0\Ejercicio5bis.dll
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\STRINGS\Ejercicio5bis\bin\Debug\net8.0\Ejercicio5bis.pdb
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\STRINGS\Ejercicio5bis\obj\Debug\net8.0\Ejercicio5bis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\STRINGS\Ejercicio5bis\obj\Debug\net8.0\Ejercicio5bis.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\STRINGS\Ejercicio5bis\obj\Debug\net8.0\Ejercicio5bis.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\STRINGS\Ejercicio5bis\obj\Debug\net8.0\Ejercicio5bis.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\STRINGS\Ejercicio5bis\obj\Debug\net8.0\Ejercicio5bis.dll
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\STRINGS\Ejercicio5bis\obj\Debug\net8.0\refint\Ejercicio5bis.dll
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\STRINGS\Ejercicio5bis\obj\Debug\net8.0\Ejercicio5bis.pdb
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\STRINGS\Ejercicio5bis\obj\Debug\net8.0\Ejercicio5bis.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\STRINGS\Ejercicio5bis\obj\Debug\net8.0\ref\Ejercicio5bis.dll

@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\BUCLES_ANIDADOS\EjercicioPropuesto1\bin\Debug\net8.0\EjercicioPropuesto1.exe
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\BUCLES_ANIDADOS\EjercicioPropuesto1\bin\Debug\net8.0\EjercicioPropuesto1.deps.json
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\BUCLES_ANIDADOS\EjercicioPropuesto1\bin\Debug\net8.0\EjercicioPropuesto1.runtimeconfig.json
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\BUCLES_ANIDADOS\EjercicioPropuesto1\bin\Debug\net8.0\EjercicioPropuesto1.dll
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\BUCLES_ANIDADOS\EjercicioPropuesto1\bin\Debug\net8.0\EjercicioPropuesto1.pdb
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\BUCLES_ANIDADOS\EjercicioPropuesto1\obj\Debug\net8.0\EjercicioPropuesto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\BUCLES_ANIDADOS\EjercicioPropuesto1\obj\Debug\net8.0\EjercicioPropuesto1.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\BUCLES_ANIDADOS\EjercicioPropuesto1\obj\Debug\net8.0\EjercicioPropuesto1.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\BUCLES_ANIDADOS\EjercicioPropuesto1\obj\Debug\net8.0\EjercicioPropuesto1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\BUCLES_ANIDADOS\EjercicioPropuesto1\obj\Debug\net8.0\EjercicioPropuesto1.dll
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\BUCLES_ANIDADOS\EjercicioPropuesto1\obj\Debug\net8.0\refint\EjercicioPropuesto1.dll
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\BUCLES_ANIDADOS\EjercicioPropuesto1\obj\Debug\net8.0\EjercicioPropuesto1.pdb
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\BUCLES_ANIDADOS\EjercicioPropuesto1\obj\Debug\net8.0\EjercicioPropuesto1.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\BUCLES_ANIDADOS\EjercicioPropuesto1\obj\Debug\net8.0\ref\EjercicioPropuesto1.dll

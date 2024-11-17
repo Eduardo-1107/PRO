@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\Instituto\PRO\Trimestre1\Proyectos\Strings\String07\bin\Debug\net8.0\String07.exe
+C:\Users\Asus\Desktop\Instituto\PRO\Trimestre1\Proyectos\Strings\String07\bin\Debug\net8.0\String07.deps.json
+C:\Users\Asus\Desktop\Instituto\PRO\Trimestre1\Proyectos\Strings\String07\bin\Debug\net8.0\String07.runtimeconfig.json
+C:\Users\Asus\Desktop\Instituto\PRO\Trimestre1\Proyectos\Strings\String07\bin\Debug\net8.0\String07.dll
+C:\Users\Asus\Desktop\Instituto\PRO\Trimestre1\Proyectos\Strings\String07\bin\Debug\net8.0\String07.pdb
+C:\Users\Asus\Desktop\Instituto\PRO\Trimestre1\Proyectos\Strings\String07\obj\Debug\net8.0\String07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Instituto\PRO\Trimestre1\Proyectos\Strings\String07\obj\Debug\net8.0\String07.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Instituto\PRO\Trimestre1\Proyectos\Strings\String07\obj\Debug\net8.0\String07.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Instituto\PRO\Trimestre1\Proyectos\Strings\String07\obj\Debug\net8.0\String07.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Instituto\PRO\Trimestre1\Proyectos\Strings\String07\obj\Debug\net8.0\String07.dll
+C:\Users\Asus\Desktop\Instituto\PRO\Trimestre1\Proyectos\Strings\String07\obj\Debug\net8.0\refint\String07.dll
+C:\Users\Asus\Desktop\Instituto\PRO\Trimestre1\Proyectos\Strings\String07\obj\Debug\net8.0\String07.pdb
+C:\Users\Asus\Desktop\Instituto\PRO\Trimestre1\Proyectos\Strings\String07\obj\Debug\net8.0\String07.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Instituto\PRO\Trimestre1\Proyectos\Strings\String07\obj\Debug\net8.0\ref\String07.dll
