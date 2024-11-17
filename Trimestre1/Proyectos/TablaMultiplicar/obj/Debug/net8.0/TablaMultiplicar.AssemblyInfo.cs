@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TablaMultiplicar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+332cc43f51fd85a6ffd3f87967ff9d27c82851a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("TablaMultiplicar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TablaMultiplicar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
