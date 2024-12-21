@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\Repaso\bin\Debug\net9.0\Repaso.exe
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\Repaso\bin\Debug\net9.0\Repaso.deps.json
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\Repaso\bin\Debug\net9.0\Repaso.runtimeconfig.json
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\Repaso\bin\Debug\net9.0\Repaso.dll
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\Repaso\bin\Debug\net9.0\Repaso.pdb
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\Repaso\obj\Debug\net9.0\Repaso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\Repaso\obj\Debug\net9.0\Repaso.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\Repaso\obj\Debug\net9.0\Repaso.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\Repaso\obj\Debug\net9.0\Repaso.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\Repaso\obj\Debug\net9.0\Repaso.sourcelink.json
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\Repaso\obj\Debug\net9.0\Repaso.dll
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\Repaso\obj\Debug\net9.0\refint\Repaso.dll
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\Repaso\obj\Debug\net9.0\Repaso.pdb
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\Repaso\obj\Debug\net9.0\Repaso.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\Repaso\obj\Debug\net9.0\ref\Repaso.dll

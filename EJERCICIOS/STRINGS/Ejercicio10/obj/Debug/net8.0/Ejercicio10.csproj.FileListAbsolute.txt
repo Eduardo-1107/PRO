@@ -12,3 +12,4 @@ C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\STRINGS\Ejercicio10\obj\Debug\net
 C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\STRINGS\Ejercicio10\obj\Debug\net8.0\Ejercicio10.pdb
 C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\STRINGS\Ejercicio10\obj\Debug\net8.0\Ejercicio10.genruntimeconfig.cache
 C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\STRINGS\Ejercicio10\obj\Debug\net8.0\ref\Ejercicio10.dll
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\STRINGS\Ejercicio10\obj\Debug\net8.0\Ejercicio10.sourcelink.json

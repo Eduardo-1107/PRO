@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\TablasBidimensionales\bin\Debug\net9.0\TablasBidimensionales.exe
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\TablasBidimensionales\bin\Debug\net9.0\TablasBidimensionales.deps.json
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\TablasBidimensionales\bin\Debug\net9.0\TablasBidimensionales.runtimeconfig.json
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\TablasBidimensionales\bin\Debug\net9.0\TablasBidimensionales.dll
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\TablasBidimensionales\bin\Debug\net9.0\TablasBidimensionales.pdb
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\TablasBidimensionales\obj\Debug\net9.0\TablasBidimensionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\TablasBidimensionales\obj\Debug\net9.0\TablasBidimensionales.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\TablasBidimensionales\obj\Debug\net9.0\TablasBidimensionales.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\TablasBidimensionales\obj\Debug\net9.0\TablasBidimensionales.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\TablasBidimensionales\obj\Debug\net9.0\TablasBidimensionales.sourcelink.json
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\TablasBidimensionales\obj\Debug\net9.0\TablasBidimensionales.dll
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\TablasBidimensionales\obj\Debug\net9.0\refint\TablasBidimensionales.dll
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\TablasBidimensionales\obj\Debug\net9.0\TablasBidimensionales.pdb
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\TablasBidimensionales\obj\Debug\net9.0\TablasBidimensionales.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\TablasBidimensionales\obj\Debug\net9.0\ref\TablasBidimensionales.dll

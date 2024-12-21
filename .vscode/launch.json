@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/EJERCICIOS/STRINGS/Ejercicio10/bin/Debug/net8.0/Ejercicio10.dll",
+            "program": "${workspaceFolder}/EJERCICIOS/RANDOM/Ahorcado/bin/Debug/net9.0/Ahorcado.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/EJERCICIOS/STRINGS/Ejercicio10",
+            "cwd": "${workspaceFolder}/EJERCICIOS/RANDOM/Ahorcado",
             "console": "internalConsole",
             "stopAtEntry": false
         },

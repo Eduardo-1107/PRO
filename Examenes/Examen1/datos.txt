@@ -1,0 +1,8 @@
+Tiempos:
+1.50,1.48,2.06,1.50,1.69,2.06,1.88,1.92
+
+Penalizaciones:
+0.10,0.20,0.00,0.00,0.00,0.04,0.00,0.60
+
+Nombres:
+"Aitor","Felisa","Jonay","Ester","Ángela","Tomás","Óscar","Taida"

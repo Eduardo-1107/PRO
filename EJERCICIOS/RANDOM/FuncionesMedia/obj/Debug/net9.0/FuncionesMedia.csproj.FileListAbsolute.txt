@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\FuncionesMedia\bin\Debug\net9.0\FuncionesMedia.exe
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\FuncionesMedia\bin\Debug\net9.0\FuncionesMedia.deps.json
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\FuncionesMedia\bin\Debug\net9.0\FuncionesMedia.runtimeconfig.json
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\FuncionesMedia\bin\Debug\net9.0\FuncionesMedia.dll
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\FuncionesMedia\bin\Debug\net9.0\FuncionesMedia.pdb
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\FuncionesMedia\obj\Debug\net9.0\FuncionesMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\FuncionesMedia\obj\Debug\net9.0\FuncionesMedia.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\FuncionesMedia\obj\Debug\net9.0\FuncionesMedia.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\FuncionesMedia\obj\Debug\net9.0\FuncionesMedia.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\FuncionesMedia\obj\Debug\net9.0\FuncionesMedia.sourcelink.json
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\FuncionesMedia\obj\Debug\net9.0\FuncionesMedia.dll
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\FuncionesMedia\obj\Debug\net9.0\refint\FuncionesMedia.dll
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\FuncionesMedia\obj\Debug\net9.0\FuncionesMedia.pdb
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\FuncionesMedia\obj\Debug\net9.0\FuncionesMedia.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\FuncionesMedia\obj\Debug\net9.0\ref\FuncionesMedia.dll

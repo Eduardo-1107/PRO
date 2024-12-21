@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\FUNCIONES\Ejercicios3\RecortarTrozoMatriz\bin\Debug\net9.0\RecortarTrozoMatriz.exe
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\FUNCIONES\Ejercicios3\RecortarTrozoMatriz\bin\Debug\net9.0\RecortarTrozoMatriz.deps.json
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\FUNCIONES\Ejercicios3\RecortarTrozoMatriz\bin\Debug\net9.0\RecortarTrozoMatriz.runtimeconfig.json
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\FUNCIONES\Ejercicios3\RecortarTrozoMatriz\bin\Debug\net9.0\RecortarTrozoMatriz.dll
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\FUNCIONES\Ejercicios3\RecortarTrozoMatriz\bin\Debug\net9.0\RecortarTrozoMatriz.pdb
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\FUNCIONES\Ejercicios3\RecortarTrozoMatriz\obj\Debug\net9.0\RecortarTrozoMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\FUNCIONES\Ejercicios3\RecortarTrozoMatriz\obj\Debug\net9.0\RecortarTrozoMatriz.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\FUNCIONES\Ejercicios3\RecortarTrozoMatriz\obj\Debug\net9.0\RecortarTrozoMatriz.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\FUNCIONES\Ejercicios3\RecortarTrozoMatriz\obj\Debug\net9.0\RecortarTrozoMatriz.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\FUNCIONES\Ejercicios3\RecortarTrozoMatriz\obj\Debug\net9.0\RecortarTrozoMatriz.sourcelink.json
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\FUNCIONES\Ejercicios3\RecortarTrozoMatriz\obj\Debug\net9.0\RecortarTrozoMatriz.dll
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\FUNCIONES\Ejercicios3\RecortarTrozoMatriz\obj\Debug\net9.0\refint\RecortarTrozoMatriz.dll
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\FUNCIONES\Ejercicios3\RecortarTrozoMatriz\obj\Debug\net9.0\RecortarTrozoMatriz.pdb
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\FUNCIONES\Ejercicios3\RecortarTrozoMatriz\obj\Debug\net9.0\RecortarTrozoMatriz.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\FUNCIONES\Ejercicios3\RecortarTrozoMatriz\obj\Debug\net9.0\ref\RecortarTrozoMatriz.dll

@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\CuboMagico\bin\Debug\net9.0\CuboMagico.exe
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\CuboMagico\bin\Debug\net9.0\CuboMagico.deps.json
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\CuboMagico\bin\Debug\net9.0\CuboMagico.runtimeconfig.json
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\CuboMagico\bin\Debug\net9.0\CuboMagico.dll
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\CuboMagico\bin\Debug\net9.0\CuboMagico.pdb
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\CuboMagico\obj\Debug\net9.0\CuboMagico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\CuboMagico\obj\Debug\net9.0\CuboMagico.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\CuboMagico\obj\Debug\net9.0\CuboMagico.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\CuboMagico\obj\Debug\net9.0\CuboMagico.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\CuboMagico\obj\Debug\net9.0\CuboMagico.sourcelink.json
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\CuboMagico\obj\Debug\net9.0\CuboMagico.dll
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\CuboMagico\obj\Debug\net9.0\refint\CuboMagico.dll
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\CuboMagico\obj\Debug\net9.0\CuboMagico.pdb
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\CuboMagico\obj\Debug\net9.0\CuboMagico.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\CuboMagico\obj\Debug\net9.0\ref\CuboMagico.dll
