@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\AmigoInvisible\bin\Debug\net9.0\AmigoInvisible.exe
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\AmigoInvisible\bin\Debug\net9.0\AmigoInvisible.deps.json
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\AmigoInvisible\bin\Debug\net9.0\AmigoInvisible.runtimeconfig.json
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\AmigoInvisible\bin\Debug\net9.0\AmigoInvisible.dll
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\AmigoInvisible\bin\Debug\net9.0\AmigoInvisible.pdb
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\AmigoInvisible\obj\Debug\net9.0\AmigoInvisible.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\AmigoInvisible\obj\Debug\net9.0\AmigoInvisible.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\AmigoInvisible\obj\Debug\net9.0\AmigoInvisible.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\AmigoInvisible\obj\Debug\net9.0\AmigoInvisible.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\AmigoInvisible\obj\Debug\net9.0\AmigoInvisible.sourcelink.json
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\AmigoInvisible\obj\Debug\net9.0\AmigoInvisible.dll
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\AmigoInvisible\obj\Debug\net9.0\refint\AmigoInvisible.dll
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\AmigoInvisible\obj\Debug\net9.0\AmigoInvisible.pdb
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\AmigoInvisible\obj\Debug\net9.0\AmigoInvisible.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\RANDOM\AmigoInvisible\obj\Debug\net9.0\ref\AmigoInvisible.dll

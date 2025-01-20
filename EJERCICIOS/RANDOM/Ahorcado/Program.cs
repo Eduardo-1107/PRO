@@ -4,7 +4,7 @@ public class Program
     static void Main(string[] args)
     {
         //Variables 
-        int opcionPrincipal, opcionSubmenu, numFallos;
+        int opcionPrincipal, opcionSubmenu, numFallos = 0;
         char[] cadenaAciertos, letrasUtilizadas;
         string cadenaSecreta;
         bool flag = true;
@@ -38,12 +38,12 @@ public class Program
                                         Game.LeerSecreto(out cadenaAciertos, out cadenaSecreta);
                                         letrasUtilizadas = new char[cadenaAciertos.Length];
                                         Console.Clear();
-                                        Game.MostrarAhorcado(0);
-                                        
-                                        Console.WriteLine("\n" + Game.EscribirSecreto(ref cadenaAciertos, letrasUtilizadas));
-                                        Console.ReadKey();
-                                        opcionSubmenu = '0';
-                                        opcionPrincipal = '0';
+                                        while (numFallos < 6)
+                                        {
+                                            Game.MostrarAhorcado(numFallos);
+                                            Console.WriteLine("\n" + Game.EscribirSecreto(ref cadenaAciertos, letrasUtilizadas));
+                                            Console.WriteLine("Escribe la letra que quieras representar");
+                                        }
                                         break;
                                     case '2':
                                         break;
