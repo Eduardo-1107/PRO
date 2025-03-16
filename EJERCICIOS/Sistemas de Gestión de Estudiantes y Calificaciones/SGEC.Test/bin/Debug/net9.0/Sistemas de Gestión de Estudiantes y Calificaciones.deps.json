@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Sistemas de Gestión de Estudiantes y Calificaciones/1.0.0": {
+        "runtime": {
+          "Sistemas de Gestión de Estudiantes y Calificaciones.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sistemas de Gestión de Estudiantes y Calificaciones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
