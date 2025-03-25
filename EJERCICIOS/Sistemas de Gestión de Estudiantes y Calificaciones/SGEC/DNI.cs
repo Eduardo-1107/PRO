@@ -1,11 +1,11 @@
 namespace SISTEMA_GESTION_ESTUDIANTES_CALIFICACIONES;
 public class DNI
 {
-    public long NDni { get; }
+    public  string NDni { get; }
     public char LDni { get; }
     private static readonly char[] LetrasDni = ['T', 'R', 'W', 'A', 'G', 'M', 'Y', 'F', 'P', 'D', 'X', 'B', 'N', 'J', 'Z', 'S', 'Q', 'V', 'H', 'L', 'C', 'K'];
 
-    public DNI(long numeroDni, char letraDni)
+    public DNI(string numeroDni, char letraDni)
     {
         if (LetraValida(numeroDni, letraDni))
         {
@@ -13,15 +13,14 @@ public class DNI
             LDni = letraDni;
         }
     }
-    private bool LetraValida(long numeroDni, char letraDni)
+    private bool LetraValida(string numeroDni, char letraDni)
     {
         char letraEsperada;
         int resto;
         
 
-        if (!(numeroDni < 1000000 || numeroDni > 99999999))
-        {
-            resto = (int)numeroDni % 23;
+        if (numeroDni.Length == 8) {
+            resto = Convert.ToInt32(numeroDni) % 23;
             letraEsperada = LetrasDni[resto];
         }
         else
@@ -34,7 +33,7 @@ public class DNI
     }
     public override string ToString()
     {
-        return $"DNI: {NDni:D8}{LDni}";
+        return $"{NDni}{LDni}";
     }
     public override bool Equals(object? obj)
     {

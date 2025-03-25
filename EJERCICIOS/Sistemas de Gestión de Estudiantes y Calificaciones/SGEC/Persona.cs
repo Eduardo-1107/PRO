@@ -11,11 +11,11 @@ public class Persona
             return _dni.ToString();
         }
     }
-    public Persona(int edad, int numeroDni, char letraDni)
+    public Persona(int edad, string numeroDni, char letraDni)
         : this("Desconocido", ValidarEdad(edad), numeroDni, letraDni)
     {
     }
-    public Persona(string nombre, int edad, int numeroDni, char letraDni)
+    public Persona(string nombre, int edad, string numeroDni, char letraDni)
     {
         Nombre = nombre;
         Edad = ValidarEdad(edad);
@@ -29,7 +29,7 @@ public class Persona
     }
     public override string ToString()
     {
-        return $"Nombre: {Nombre}, Edad: {Edad}, {Dni}";
+        return $"Nombre: {Nombre}, Edad: {Edad}, DNI: {Dni}";
     }
     public override bool Equals(object? obj)
     {

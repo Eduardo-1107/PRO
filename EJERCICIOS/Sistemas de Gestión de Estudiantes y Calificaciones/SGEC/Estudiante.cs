@@ -4,11 +4,11 @@ class Estudiante : Persona, IComparable<Estudiante>
 {
     private List<Calificacion> calificaciones;
 
-    public Estudiante(int edad, int numeroDni, char letraDni) : base("Desconocido", edad, numeroDni, letraDni)
+    public Estudiante(int edad, string numeroDni, char letraDni) : base("Desconocido", edad, numeroDni, letraDni)
     {
         calificaciones = new List<Calificacion>();
     }
-    public Estudiante(string nombre, int edad, int numeroDni, char letraDni) : base(nombre, edad, numeroDni, letraDni)
+    public Estudiante(string nombre, int edad, string numeroDni, char letraDni) : base(nombre, edad, numeroDni, letraDni)
     {
         calificaciones = new List<Calificacion>();
     }

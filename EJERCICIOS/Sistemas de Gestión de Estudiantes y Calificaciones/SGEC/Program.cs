@@ -7,15 +7,13 @@ class Program
     {
         //e = Estudiante, c = calificación.
 
-        Console.Clear();
-
 
         try
         {
-            Estudiante e1 = new Estudiante("Eduardo",20,43485970,'P'); 
-            Estudiante e2 = new Estudiante(18,12345678,'Z');           
-            Estudiante e3 = new Estudiante("Isabel",20,43839670,'Z');  
-            Estudiante e4 = new Estudiante("Jose",21,87654321,'X');   
+            Estudiante e1 = new Estudiante("Eduardo",20,"43485970",'P'); 
+            Estudiante e2 = new Estudiante(18,"12345678",'Z');           
+            Estudiante e3 = new Estudiante("Isabel",20,"43839670",'Z');  
+            Estudiante e4 = new Estudiante("Jose",21,"87654321",'X');   
             
     
             Calificacion c1e1 = new Calificacion("Matematicas",6.4F);
@@ -49,13 +47,14 @@ class Program
             Console.WriteLine("\n\n\nEstudiantes ordenados: \n");
             List<Estudiante> estudiantes = [e1,e2,e3,e4];  
             estudiantes.Sort();
+            estudiantes.Reverse();
             foreach (Estudiante estudiante in estudiantes)
             {
                 Console.WriteLine("\n" + estudiante.ToString() + "\n\n");
             }
     
             Console.WriteLine("Persona con DNI: 1000001S");
-            DNI dniBuscado = new DNI(10000001,'S');
+            DNI dniBuscado = new DNI("10000001",'S');
             bool Encontrado = false;
             foreach (Estudiante estudiante in estudiantes)
             {
