@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Instituto\PRO\Ficheros\Comparativa\obj\Debug\net9.0\Comparativa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Instituto\PRO\Ficheros\Comparativa\obj\Debug\net9.0\Comparativa.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Instituto\PRO\Ficheros\Comparativa\obj\Debug\net9.0\Comparativa.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Instituto\PRO\Ficheros\Comparativa\obj\Debug\net9.0\Comparativa.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Instituto\PRO\Ficheros\Comparativa\obj\Debug\net9.0\Comparativa.sourcelink.json
+C:\Users\Asus\Desktop\Instituto\PRO\Ficheros\Comparativa\bin\Debug\net9.0\Comparativa.exe
+C:\Users\Asus\Desktop\Instituto\PRO\Ficheros\Comparativa\bin\Debug\net9.0\Comparativa.deps.json
+C:\Users\Asus\Desktop\Instituto\PRO\Ficheros\Comparativa\bin\Debug\net9.0\Comparativa.runtimeconfig.json
+C:\Users\Asus\Desktop\Instituto\PRO\Ficheros\Comparativa\bin\Debug\net9.0\Comparativa.dll
+C:\Users\Asus\Desktop\Instituto\PRO\Ficheros\Comparativa\bin\Debug\net9.0\Comparativa.pdb
+C:\Users\Asus\Desktop\Instituto\PRO\Ficheros\Comparativa\obj\Debug\net9.0\Comparativa.dll
+C:\Users\Asus\Desktop\Instituto\PRO\Ficheros\Comparativa\obj\Debug\net9.0\refint\Comparativa.dll
+C:\Users\Asus\Desktop\Instituto\PRO\Ficheros\Comparativa\obj\Debug\net9.0\Comparativa.pdb
+C:\Users\Asus\Desktop\Instituto\PRO\Ficheros\Comparativa\obj\Debug\net9.0\Comparativa.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Instituto\PRO\Ficheros\Comparativa\obj\Debug\net9.0\ref\Comparativa.dll

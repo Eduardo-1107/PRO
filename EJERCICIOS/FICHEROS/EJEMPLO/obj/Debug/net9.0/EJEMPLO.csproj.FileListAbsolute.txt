@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\FICHEROS\EJEMPLO\bin\Debug\net9.0\EJEMPLO.exe
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\FICHEROS\EJEMPLO\bin\Debug\net9.0\EJEMPLO.deps.json
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\FICHEROS\EJEMPLO\bin\Debug\net9.0\EJEMPLO.runtimeconfig.json
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\FICHEROS\EJEMPLO\bin\Debug\net9.0\EJEMPLO.dll
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\FICHEROS\EJEMPLO\bin\Debug\net9.0\EJEMPLO.pdb
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\FICHEROS\EJEMPLO\obj\Debug\net9.0\EJEMPLO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\FICHEROS\EJEMPLO\obj\Debug\net9.0\EJEMPLO.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\FICHEROS\EJEMPLO\obj\Debug\net9.0\EJEMPLO.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\FICHEROS\EJEMPLO\obj\Debug\net9.0\EJEMPLO.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\FICHEROS\EJEMPLO\obj\Debug\net9.0\EJEMPLO.sourcelink.json
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\FICHEROS\EJEMPLO\obj\Debug\net9.0\EJEMPLO.dll
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\FICHEROS\EJEMPLO\obj\Debug\net9.0\refint\EJEMPLO.dll
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\FICHEROS\EJEMPLO\obj\Debug\net9.0\EJEMPLO.pdb
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\FICHEROS\EJEMPLO\obj\Debug\net9.0\EJEMPLO.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\FICHEROS\EJEMPLO\obj\Debug\net9.0\ref\EJEMPLO.dll

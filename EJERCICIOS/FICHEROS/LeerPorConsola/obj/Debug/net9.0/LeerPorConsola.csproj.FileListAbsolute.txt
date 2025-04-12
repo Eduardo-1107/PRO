@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\FICHEROS\LeerPorConsola\bin\Debug\net9.0\LeerPorConsola.exe
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\FICHEROS\LeerPorConsola\bin\Debug\net9.0\LeerPorConsola.deps.json
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\FICHEROS\LeerPorConsola\bin\Debug\net9.0\LeerPorConsola.runtimeconfig.json
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\FICHEROS\LeerPorConsola\bin\Debug\net9.0\LeerPorConsola.dll
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\FICHEROS\LeerPorConsola\bin\Debug\net9.0\LeerPorConsola.pdb
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\FICHEROS\LeerPorConsola\obj\Debug\net9.0\LeerPorConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\FICHEROS\LeerPorConsola\obj\Debug\net9.0\LeerPorConsola.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\FICHEROS\LeerPorConsola\obj\Debug\net9.0\LeerPorConsola.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\FICHEROS\LeerPorConsola\obj\Debug\net9.0\LeerPorConsola.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\FICHEROS\LeerPorConsola\obj\Debug\net9.0\LeerPorConsola.sourcelink.json
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\FICHEROS\LeerPorConsola\obj\Debug\net9.0\LeerPorConsola.dll
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\FICHEROS\LeerPorConsola\obj\Debug\net9.0\refint\LeerPorConsola.dll
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\FICHEROS\LeerPorConsola\obj\Debug\net9.0\LeerPorConsola.pdb
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\FICHEROS\LeerPorConsola\obj\Debug\net9.0\LeerPorConsola.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Instituto\PRO\EJERCICIOS\FICHEROS\LeerPorConsola\obj\Debug\net9.0\ref\LeerPorConsola.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sistemas de Gestión de Estudiantes y Calificaciones")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73e3ac98f290511eb2f00f6799a4166b3b6c4a38")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8d9f8defee8df8d2640980963da9c0d2dc18be7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sistemas de Gestión de Estudiantes y Calificaciones")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sistemas de Gestión de Estudiantes y Calificaciones")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
