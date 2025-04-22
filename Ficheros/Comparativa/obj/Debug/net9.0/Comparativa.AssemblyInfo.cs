@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Comparativa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8d9f8defee8df8d2640980963da9c0d2dc18be7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b4fa1638bba7684e85524ec493e1a8fa6ee503b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Comparativa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Comparativa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

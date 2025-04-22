@@ -22,7 +22,7 @@ public class Producto : IComparable<Producto>
         return _codigo == otro._codigo;
     }
     public override int GetHashCode() {
-        return _nombre.GetHashCode();
+        return _codigo.GetHashCode();
     }
     public int CompareTo(Producto? otro)  {
         if (otro == null)

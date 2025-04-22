@@ -1,4 +1,5 @@
 
+using System.ComponentModel;
 using System.Security.Cryptography.X509Certificates;
 using System.Xml.Serialization;
 
@@ -9,48 +10,81 @@ public class Comparativa
     private List<Articulo> _articulos {get; set;}
 
     public Comparativa(string rutaCSV)
+{
+    _articulos = new List<Articulo>();
+    FileStream fs;
+    StreamReader sr;
+    string linea;
+    string[] datos;
+
+    try
     {
-        _articulos = new List<Articulo>();
-        FileStream fs;
-        StreamReader sr;
-        string linea; 
-        string[] datos;
-        try
+        using (fs = new FileStream(rutaCSV, FileMode.Open))
+        using (sr = new StreamReader(fs))
         {
-            using (fs = new FileStream(rutaCSV, FileMode.Open))
-            using (sr = new StreamReader(fs))
+            while ((linea = sr.ReadLine()) != null)
             {
-                while ((linea = sr.ReadLine()) != null)
+                datos = linea.Split(';');
+                if (datos.Length == 4)
                 {
-                    datos = linea.Split(';');
+                    string vendedor = datos[0];
+                    string codigo = datos[1];
+                    string nombre = datos[2];
+                    decimal precio = Convert.ToDecimal(datos[3]);
 
-                    if (datos.Length == 4) {
-                        AñadirArticulo(datos[0],datos[1],datos[2],Convert.ToDecimal(datos[3]));
+                    Producto producto = new Producto(codigo, nombre, precio);
+                    bool existe = false;
 
-                    } else {
-                        Console.WriteLine("Formato de linea incorrecto." + datos.Length);
+                    foreach (Articulo a in _articulos)
+                    {
+                        if (a.GetProducto().Equals(producto))
+                        {
+                            existe = true;
+                        }
+                    }
+
+                    if (!existe)
+                    {
+                        Articulo articulo = new Articulo(vendedor, producto, precio);
+                        _articulos.Add(articulo);
+                    }
+                    else
+                    {
+                        Console.WriteLine($"Producto con código {codigo} ya existe. Línea omitida.");
                     }
                 }
+                else
+                {
+                    Console.WriteLine("Formato de línea incorrecto. Elementos: " + datos.Length);
+                }
             }
-    
-        }
-        catch (Exception e)
-        {
-            Console.WriteLine("Problemas: " + e.Message);  
         }
     }
+    catch (Exception e)
+    {
+        Console.WriteLine("PROBLEMAS Comparativa: " + e.Message);
+    }
+}
+
 
     public void GuardarCSV(string nuevaRuta)
     {
         FileStream fs;
         StreamWriter sw;
-        using (fs = new FileStream(nuevaRuta,FileMode.Create))
-        using(sw = new StreamWriter(fs))
+        try
         {
-            foreach (Articulo articulo in _articulos)
+            using (fs = new FileStream(nuevaRuta,FileMode.Create))
+            using(sw = new StreamWriter(fs))
             {
-                sw.WriteLine(articulo.ToString());
+                foreach (Articulo articulo in _articulos)
+                {
+                    sw.WriteLine(articulo.ToString());
+                }
             }
+        }
+        catch (Exception e)
+        {
+           Console.WriteLine("PROBLEMAS GuardarCSV: " + e.Message);
         }
     }
 
@@ -96,7 +130,5 @@ public class Comparativa
 
 
         return sw.ToString();
-    }
-
-
+   }
 }
