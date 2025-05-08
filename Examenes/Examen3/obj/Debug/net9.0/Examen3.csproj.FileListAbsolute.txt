@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Instituto\PRO\Examenes\Examen3\bin\Debug\net9.0\Examen3.exe
+C:\Users\Asus\Desktop\Instituto\PRO\Examenes\Examen3\bin\Debug\net9.0\Examen3.deps.json
+C:\Users\Asus\Desktop\Instituto\PRO\Examenes\Examen3\bin\Debug\net9.0\Examen3.runtimeconfig.json
+C:\Users\Asus\Desktop\Instituto\PRO\Examenes\Examen3\bin\Debug\net9.0\Examen3.dll
+C:\Users\Asus\Desktop\Instituto\PRO\Examenes\Examen3\bin\Debug\net9.0\Examen3.pdb
+C:\Users\Asus\Desktop\Instituto\PRO\Examenes\Examen3\obj\Debug\net9.0\Examen3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Instituto\PRO\Examenes\Examen3\obj\Debug\net9.0\Examen3.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Instituto\PRO\Examenes\Examen3\obj\Debug\net9.0\Examen3.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Instituto\PRO\Examenes\Examen3\obj\Debug\net9.0\Examen3.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Instituto\PRO\Examenes\Examen3\obj\Debug\net9.0\Examen3.sourcelink.json
+C:\Users\Asus\Desktop\Instituto\PRO\Examenes\Examen3\obj\Debug\net9.0\Examen3.dll
+C:\Users\Asus\Desktop\Instituto\PRO\Examenes\Examen3\obj\Debug\net9.0\refint\Examen3.dll
+C:\Users\Asus\Desktop\Instituto\PRO\Examenes\Examen3\obj\Debug\net9.0\Examen3.pdb
+C:\Users\Asus\Desktop\Instituto\PRO\Examenes\Examen3\obj\Debug\net9.0\Examen3.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Instituto\PRO\Examenes\Examen3\obj\Debug\net9.0\ref\Examen3.dll

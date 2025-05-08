@@ -1,0 +1,14 @@
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre2\Proyectos\Objetos\EjemploBotella\bin\Debug\net9.0\EjemploBotella.exe
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre2\Proyectos\Objetos\EjemploBotella\bin\Debug\net9.0\EjemploBotella.deps.json
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre2\Proyectos\Objetos\EjemploBotella\bin\Debug\net9.0\EjemploBotella.runtimeconfig.json
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre2\Proyectos\Objetos\EjemploBotella\bin\Debug\net9.0\EjemploBotella.dll
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre2\Proyectos\Objetos\EjemploBotella\bin\Debug\net9.0\EjemploBotella.pdb
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre2\Proyectos\Objetos\EjemploBotella\obj\Debug\net9.0\EjemploBotella.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre2\Proyectos\Objetos\EjemploBotella\obj\Debug\net9.0\EjemploBotella.AssemblyInfoInputs.cache
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre2\Proyectos\Objetos\EjemploBotella\obj\Debug\net9.0\EjemploBotella.AssemblyInfo.cs
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre2\Proyectos\Objetos\EjemploBotella\obj\Debug\net9.0\EjemploBotella.csproj.CoreCompileInputs.cache
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre2\Proyectos\Objetos\EjemploBotella\obj\Debug\net9.0\EjemploBotella.dll
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre2\Proyectos\Objetos\EjemploBotella\obj\Debug\net9.0\refint\EjemploBotella.dll
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre2\Proyectos\Objetos\EjemploBotella\obj\Debug\net9.0\EjemploBotella.pdb
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre2\Proyectos\Objetos\EjemploBotella\obj\Debug\net9.0\EjemploBotella.genruntimeconfig.cache
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre2\Proyectos\Objetos\EjemploBotella\obj\Debug\net9.0\ref\EjemploBotella.dll

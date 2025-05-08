@@ -1,8 +1,4 @@
 
-using System.ComponentModel;
-using System.Security.Cryptography.X509Certificates;
-using System.Xml.Serialization;
-
 namespace Comparativa;
 
 public class Comparativa

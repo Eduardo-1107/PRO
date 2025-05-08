@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Ejemplo_03_LeerFichero/1.0.0": {
+        "runtime": {
+          "Ejemplo_03_LeerFichero.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejemplo_03_LeerFichero/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
